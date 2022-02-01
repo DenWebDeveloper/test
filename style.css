@@ -1,5 +1,15 @@
 body {
     box-sizing: border-box;
+    width: 100%;
+
     font-family: serif;
     color: #fff;
+
+    background: #000;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    margin: 300px 0;
 }
